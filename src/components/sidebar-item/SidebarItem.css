@@ -1,0 +1,26 @@
+.sidebar-item {
+    border-bottom: 1px solid #333;
+    padding: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.enabled {
+    cursor: pointer;
+}
+
+.disabled {
+    background-color: #f1f1f1;
+}
+
+.btn {
+    border: none;
+    padding: 8px 12px;
+    background-color: darkcyan;
+    color: #fff;
+}
+
+.btn-disabled {
+    background-color: coral;
+    color: #fff;
+}

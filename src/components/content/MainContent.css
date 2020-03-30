@@ -1,0 +1,21 @@
+.main-content {
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-content-img > img {
+    max-height: 200px;
+    border-radius: 50%;
+}
+.main-content-text {
+    padding: 0.5rem;
+}
+
+.main-content-text > h2 {
+    margin-bottom: 5px;
+}
+.main-content-text > h5 {
+    margin-bottom: 8px;
+}
+
